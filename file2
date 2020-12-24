@@ -1,2 +1,6 @@
 file created in feature1
+<<<<<<< HEAD
 
+=======
+rebase1 to 2 to 3
+>>>>>>> feature1
